@@ -1,2 +1,2 @@
 # Cola-ProductCard
-This a demo Cola product card.
+This is a demo Cola product card.
