@@ -12,6 +12,7 @@ This project showcases a simple demo of a responsive product card using HTML and
 ## How to Use
 
 Simply open the `index.html` file in a web browser to view the product card. You can customize the content and styling by editing the `style.css` file.
+and when You will click on `Explore more` you will directly visit to the The coca cola company's Original website
 
  ## Features
 
